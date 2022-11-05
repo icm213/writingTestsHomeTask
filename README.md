@@ -1,2 +1,2 @@
 # writingTestsHomeTask
-creating test by myself
+creating tests by myself
