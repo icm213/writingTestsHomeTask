@@ -18,7 +18,7 @@ That configuration of your local environment allows you to execute tests from cl
 
 # TESTING: #
 
-At the first step it is necessary to clone repository on your local machine.  You should have to click the green ‘Code’ button on this github repository and copy link to it. Next open terminal on your local machine and navigate to folder where you want to clone repository. Write command ‘git clone <rapository address>’
+At the first step it is necessary to clone repository on your local machine.  You should have to click the green ‘Code’ button on this github repository and copy link to it. Next open terminal on your local machine and navigate to folder where you want to clone repository. Write command ‘git clone ***repository address***’
 
 When clone operation is finished, there are at least two ways of run tests. First is that: open project folder with IDE, for example Visual Studio Code:
 
