@@ -11,7 +11,7 @@ then open new terminal inside IDE and run commands in it as it follows: ‘yarn 
 - In case you are not familiar with terminal, here are guidelines: 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line">https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line</a>
 
-#REQUIREMENTS:
+#REQUIREMENTS:#
 
 - You must have install git on your local machine to use ‘git clone’ command:
 
