@@ -7,7 +7,8 @@ You must have install git on your local machine to use ‘git clone’ command:
 To be able to run test, it is necessary to install few additional programs on your local unit: 
 
 1. nodejs: <a href="https://nodejs.org/en/">https://nodejs.org/en/</a>
-2. yarn: <a href="https://classic.yarnpkg.com/en/docs/install">https://classic.yarnpkg.com/en/docs/install</a>
+2. it may be necessary to install npm by hand to update nodejs <a href="https://docs.npmjs.com/cli/v8/commands/npm-install">https://docs.npmjs.com/cli/v8/commands/npm-install</a>
+3. yarn: <a href="https://classic.yarnpkg.com/en/docs/install">https://classic.yarnpkg.com/en/docs/install</a>
 
 You should have to install them in this order.
 
