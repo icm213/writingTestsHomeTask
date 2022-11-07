@@ -24,7 +24,7 @@ When clone operation is finished, there are at least two ways of run tests. Firs
 
 <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
 
-then open new terminal inside IDE and run commands in it as it follows: ‘yarn install’ and when this is ready: ‘yarn test’
+then open new terminal inside IDE and run commands in it as it follows: ‘yarn install’ (or just 'yarn') to install dependencies, and when this is ready: ‘yarn test’
 
 Other way is that: open terminal in your operation system, navigate to the root of the project, and just simply write commands in terminal: ’yarn install’ and ‘yarn test’.
 
